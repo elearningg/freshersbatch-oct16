@@ -1,1 +1,2 @@
- Assignment for CSS, HTML and JavaScript
+Assignment for CSS, HTML and JavaScript
+switch to master branch
